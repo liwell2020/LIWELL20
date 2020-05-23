@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "LIWELL20",
+"dataUrl": "LIWELL20.data.unityweb",
+"wasmCodeUrl": "LIWELL20.wasm.code.unityweb",
+"wasmFrameworkUrl": "LIWELL20.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"}
+}
